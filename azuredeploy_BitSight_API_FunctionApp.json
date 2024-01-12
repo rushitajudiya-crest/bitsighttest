@@ -258,7 +258,7 @@
                         "Azure_Client_Secret": "[parameters('Azure_Client_Secret')]",
                         "Azure_Tenant_Id": "[parameters('Azure_Tenant_Id')]",
                         "Portfolio_Companies_table_name": "[parameters('Portfolio_Companies_table_name')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/BitSightSentinel/blob/main/BitSightDataConnectorFinal.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/rushitajudiya-crest/bitsighttest/blob/main/BitSightRushit.zip?raw=true"
                     }
                 }
             ]
